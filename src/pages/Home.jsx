@@ -12,7 +12,7 @@ export default function Home() {
     return (
         <div className=" h-screen bg-[#f9f9f9]">
             <div className="mx-8 flex flex-col border-x h-full py-[50px]">
-                <div className="flex pt-[140px] md:pt-[210px] text-3xl md:text-5xl h-1/2 font-MANROPE text-black   border-y ">
+                <div className="flex pt-[140px] md:pt-[200px] text-2xl items-end md:text-5xl h-1/2 font-MANROPE text-black   border-y ">
                     We partner with founders who<br /> know something the rest of the<br /> world doesn’t know yet.
                 </div>
                 <div className=" flex pt-[220px] md:pt-[320px] items-end h-1/2 flex-row justify-between text-3xl text-black font-bold  border-b ">
