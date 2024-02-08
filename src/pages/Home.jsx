@@ -13,11 +13,11 @@ export default function Home() {
         <div className=" h-screen bg-[white]">
             <div className="mx-8 flex flex-col border-x h-full py-[50px]">
                 <div className="flex pt-[140px] md:pt-[200px] text-2xl items-end md:text-5xl h-1/2 font-MANROPE text-black   border-y ">
-                    We partner with founders who<br /> know something the rest of the<br /> world doesn’t know yet.
+                    <p className="w-4/5 md:w-3/5">We partner with founders who know something the rest of the world doesn’t know yet.</p>
                 </div>
                 <div className=" flex pt-[220px] md:pt-[320px] items-end h-1/2 flex-row justify-between text-3xl text-black font-bold  border-b ">
-                    <p className="font-MANROPE  text-xl md:text-3xl text-extrabold">
-                        <img className="h-14 w-14" src="static/images/xclogo.jpg" alt="logo" />
+                    <p className="font-MANROPE   text-extrabold">
+                        <img className="h-14 w-14 " src="static/images/xclogo.jpg" alt="logo" />
                     </p>
                     <div className=" space-x-4">
                         <button
