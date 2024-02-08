@@ -17,7 +17,7 @@ export default function Home() {
                 </div>
                 <div className=" flex pt-[220px] md:pt-[320px] items-end h-1/2 flex-row justify-between text-3xl text-black font-bold  border-b ">
                     <p className="font-MANROPE  text-xl md:text-3xl text-extrabold">
-                        <img className="h-14 w-14" src="public/static/images/xclogo.jpg" alt="logo" />
+                        <img className="h-14 w-14" src="static/images/xclogo.jpg" alt="logo" />
                     </p>
                     <div className=" space-x-4">
                         <button
